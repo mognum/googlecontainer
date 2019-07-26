@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-scheduler-amd64:v1.9.10
+FROM k8s.gcr.io/kube-scheduler:v1.14.4
 MAINTAINER jason

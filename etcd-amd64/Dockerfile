@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/etcd-amd64:3.1.11
+FROM k8s.gcr.io/etcd:3.3.10
 MAINTAINER jason

@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-controller-manager-amd64:v1.9.10
+FROM k8s.gcr.io/kube-controller-manager:v1.14.4
 MAINTAINER jason
